@@ -37,3 +37,11 @@ Visualised product demand across regions using a map to help leadership prioriti
 ## Outcome
 The project delivers clear insights into revenue drivers, customer concentration, and regional demand, enabling data-driven decision-making for business growth.
 
+## Certification
+
+This project was completed as part of the **Tata Data Visualization Virtual Experience Program** offered by Tata Group through Forage.
+
+The certification validates hands-on experience in:
+- Understanding business requirements
+- Designing executive-level dashboards
+- Translating data into actionable insights for stakeholders
